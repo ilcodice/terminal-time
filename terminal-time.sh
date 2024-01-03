@@ -1,2 +1,4 @@
-echo `date
-welcome
+
+
+echo `date`
+echo welcome`whoami` to $(hostname)
